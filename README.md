@@ -1,5 +1,8 @@
 # Bokeh_application
 
+Développer un tableau de bord de modélisation des prix de l'électricité
+travaille effectuer pour un projet d'étude en équipe de trois personnes
+
 1. Détails de l'application
 Le tableau de bord Bokeh est composé de 7 modules python :
 - initialisialisation.py : module de lancement de l'application qui permet d'instancier les différents
